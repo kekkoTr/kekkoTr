@@ -45,3 +45,12 @@ Hi, I'm Francesco a graduate student in Università degli Studi di Salerno (UNIS
   <img src="https://w7.pngwing.com/pngs/101/125/png-transparent-intellij-idea-integrated-development-environment-computer-software-source-code-jetbrains-php-logo-angle-text-logo.png" title="IntelliJ" alt="IntelliJ" width="60" height="40"/>
   <img src="https://static-00.iconduck.com/assets.00/eclipse-icon-512x479-6ivkqawb.png" title="Eclipse" alt="Eclipse" width="40" height="40"/>
 </p>
+
+---
+
+## 💻​ OS:
+
+<p align="left">
+  <img src="https://www.svgrepo.com/show/303223/microsoft-windows-22-logo.svg" title="Windows" alt="Windows" width="40" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg8zusLkLsfL94blV1gbVowJkT3YniLhwQB08lO5j8ww&s" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>
+</p>
