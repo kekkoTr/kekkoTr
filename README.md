@@ -31,8 +31,8 @@ Hi, I'm Francesco a graduate student in Università degli Studi di Salerno (UNIS
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>
-  <img src="https://asset.brandfetch.io/idbyoKq4tZ/id0B3_53hD.png" alt="Matplotlib" title="Matplotlib" width="40" height="40"/>
+  <img src="https://asset.brandfetch.io/idbyoKq4tZ/id0B3_53hD.png" alt="Matplotlib" title="Matplotlib" width="80" height="40"/>
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-chatgpt-10516006-8630392.png" title="ChatGPT" alt="ChatGPT" width="40" height="40"/>
-  <img src="https://e7.pngegg.com/pngimages/39/4/png-clipart-logo-scikit-learn-python-github-machine-learning-text-orange.png" title="Scikit-Learn" alt="Scikit-Learn" width="40"       
+  <img src="https://e7.pngegg.com/pngimages/39/4/png-clipart-logo-scikit-learn-python-github-machine-learning-text-orange.png" title="Scikit-Learn" alt="Scikit-Learn" width="80"       
   height="40"/>
 </p>
