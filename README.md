@@ -42,6 +42,6 @@ Hi, I'm Francesco a graduate student in Università degli Studi di Salerno (UNIS
 
 <p align="left">
   <img src="https://www.svgrepo.com/show/374173/vscode3.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
-  <img src="https://w7.pngwing.com/pngs/101/125/png-transparent-intellij-idea-integrated-development-environment-computer-software-source-code-jetbrains-php-logo-angle-text-logo.png" title="IntelliJ" alt="IntelliJ" width="40" height="40"/>
+  <img src="https://w7.pngwing.com/pngs/101/125/png-transparent-intellij-idea-integrated-development-environment-computer-software-source-code-jetbrains-php-logo-angle-text-logo.png" title="IntelliJ" alt="IntelliJ" width="60" height="40"/>
   <img src="https://static-00.iconduck.com/assets.00/eclipse-icon-512x479-6ivkqawb.png" title="Eclipse" alt="Eclipse" width="40" height="40"/>
 </p>
