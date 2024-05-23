@@ -11,7 +11,6 @@ Hi, I'm Francesco a graduate student in Università degli Studi di Salerno (UNIS
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="Python" alt="R" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
@@ -35,4 +34,14 @@ Hi, I'm Francesco a graduate student in Università degli Studi di Salerno (UNIS
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-chatgpt-10516006-8630392.png" title="ChatGPT" alt="ChatGPT" width="40" height="40"/>
   <img src="https://e7.pngegg.com/pngimages/39/4/png-clipart-logo-scikit-learn-python-github-machine-learning-text-orange.png" title="Scikit-Learn" alt="Scikit-Learn" width="80"       
   height="40"/>
+</p>
+
+---
+
+## IDE:
+
+<p align="left">
+  <img src="https://www.svgrepo.com/show/374173/vscode3.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
+  <img src=https://w7.pngwing.com/pngs/101/125/png-transparent-intellij-idea-integrated-development-environment-computer-software-source-code-jetbrains-php-logo-angle-text-logo.png" title="IntelliJ" alt="IntelliJ" width="40" height="40"/>
+  <img src="https://static-00.iconduck.com/assets.00/eclipse-icon-512x479-6ivkqawb.png" title="Eclipse" alt="Eclipse" width="40" height="40"/>
 </p>
